@@ -1,0 +1,16 @@
+# Ignore these files in Cursor
+node_modules/
+.next/
+.git/
+*.log
+.DS_Store
+*.pem
+build/
+out/
+coverage/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# But DON'T ignore .env files in Cursor
+
